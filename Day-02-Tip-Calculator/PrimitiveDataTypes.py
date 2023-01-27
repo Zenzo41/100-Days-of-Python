@@ -9,3 +9,6 @@ print(type(c))
 
 d = True
 print(type(d)) 
+
+print(b+c)
+print(a+" Hello")
