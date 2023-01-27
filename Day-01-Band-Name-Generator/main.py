@@ -1,3 +1,4 @@
+# Band Name Generator - Day 01
 city_name = input("What is the name of your city? ")
 pet_name = input("What is the name of your pet? ")
 
